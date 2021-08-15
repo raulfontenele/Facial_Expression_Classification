@@ -14,6 +14,43 @@
   </div>
 </div>
 
+## Overview do Projeto
+<div>
+  O projeto consiste em um processo de aquisição de dados de 5 expressões faciais, utilizando sensores de Eletromiografia acoplados nos músculos da face. Baseado em um conjunto    de dados previamente adquirido e tratado, com a utilização de algoritmos de inteligência computacional, espera-se realizar a classificação das expressões escolhidas.
+</div>
+<div>
+  <h3> As expressões utilizadas: </h3>
+  <figure>
+  <img height="300em" src="https://github.com/raulfontenele/Facial_Expression_Classification/blob/master/Images%20Overview/GestosC.jpg"/>
+    <p>Fonte: <i>Ekman, P. (2002).  Facial action coding system (facs).A human face</i> </p>
+    </figure>
+  <article>
+    As expressões foram escolhidas baseadas nos grupos musculares que as mesmas abrangem, onde buscou-se expressões com grupos musculares em comum, de forma a minimizar a          limitação na quantidade de sensores.
+  </article>
+</div>
+
+<div>
+  <h3> Sinais dos sensores: </h3>
+  <figure>
+  <img height="320em" src="https://github.com/raulfontenele/Facial_Expression_Classification/blob/master/Images%20Overview/sinaisDepoisLG.png"/>
+    <p>Fonte: Autores </p>
+    </figure>
+  <article>
+    Na imagem estão apresentados os sinais adquiridos a partir dos dois sensores utilizados para a criação do <i>dataset</i> utilizado para a classificação, para cada uma das expressões previamente definidas.
+  </article>
+</div>
+
+<div>
+  <h3> <i>Dataset</i>s: </h3>
+  <figure>
+  <img height="320em" src="https://github.com/raulfontenele/Facial_Expression_Classification/blob/master/Images%20Overview/scatterDataSet.png"/>
+    <p>Fonte: Autores </p>
+    </figure>
+  <article>
+    Na imagem está apresentado o dataset gerado a partir da aquisição de dados e que foi utilizado para a classificação das expressões faciais.
+  </article>
+</div>
+
   
 ## Organização dos arquivos
 <div>
